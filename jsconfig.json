@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["Fitness-class/src/*"]
+    }
+  },
+  "exclude": ["Fitness-class/node_modules", "dist"]
+}
